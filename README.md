@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Coded along with _Learning React: Modern Patterns for Developing React Apps_.
+Coded along with _Learning React: Modern Patterns for Developing React Apps_, by Alex Banks and Eve Porcello, published by O'Reilly Media.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
